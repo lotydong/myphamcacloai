@@ -1,0 +1,14 @@
+siteTitle = 'Mỹ Phẩm AsiNice'
+siteDescr = 'Rạng ngời nét đẹp Việt.'
+siteDescription = "Trắng da, chăm sóc da, trị liệu, và spa."
+siteUrl = "http://bachhoamypham.com"
+siteBandcampUrl = 'https://bachhoamypham.com'
+siteSoundcloudUrl = 'https://soundcloud.com/sentimony'
+siteFacebookUrl = 'https://www.facebook.com/AsiniceDung'
+siteDiscogsUrl = 'https://www.discogs.com/label/82598-Sentimony-Records'
+siteTwitterUrl = 'https://twitter.com/nihon_ne'
+siteGoogleplusUrl = ''
+siteGithubUrl = 'https://github.com/nihonne'
+siteYoutubeUrl = 'https://www.youtube.com/channel/UC2xhVmkOYPKibhJm3f0f3hw'
+
+linkPrefix = '/'
