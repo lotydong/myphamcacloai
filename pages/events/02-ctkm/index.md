@@ -1,13 +1,13 @@
 ---
 id: 2
-title: 8/11/2017 - Chương trình khuyến mãi “Làm đẹp da, vui cả Tết”
+title: 8/11/2017 - Chương trình khuyến mãi Làm đẹp da, vui cả Tết
 layout: EventPage
 category: events
 path: '/events/ctkm/'
 key: asiw
 
-meta: Chương trình khuyến mãi “Làm đẹp da, vui cả Tết”
-keywords: Chương trình khuyến mãi “Làm đẹp da, vui cả Tết”
+meta: Chương trình khuyến mãi Làm đẹp da, vui cả Tết
+keywords: Chương trình khuyến mãi Làm đẹp da, vui cả Tết
 
 psyshine: http://dendua.com/asinice
 ---
