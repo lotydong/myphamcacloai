@@ -4,7 +4,7 @@ title: 11/11/2017 - Dòng sản phẩm mới đẳng cấp Asinice mới ra mắ
 layout: EventPage
 category: events
 path: '/events/sp-moi/'
-key: cover1
+key: cover3
 
 meta: Dòng sản phẩm mới đẳng cấp Asinice mới ra mắt có tên Asinice Premium
 keywords: Dòng sản phẩm mới đẳng cấp Asinice mới ra mắt có tên Asinice Premium
