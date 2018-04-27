@@ -4,7 +4,7 @@ title: 8/11/2017 - Chương trình khuyến mãi “Làm đẹp da, vui cả T�
 layout: EventPage
 category: events
 path: '/events/ctkm/'
-key: cover2
+key: asiw
 
 meta: Chương trình khuyến mãi “Làm đẹp da, vui cả Tết”
 keywords: Chương trình khuyến mãi “Làm đẹp da, vui cả Tết”
