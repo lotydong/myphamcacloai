@@ -1,7 +1,7 @@
 ---
-title: 'Danh mục Trà Sữa Phú Quốc'
+title: 'Dòng Chăm Sóc Da'
 layout: Artists
 path: '/artists/'
-meta: Danh mục Trà Sữa Phú Quốc
-keywords: Danh mục Trà Sữa Phú Quốc
+meta: Dòng Chăm Sóc Da
+keywords: Dòng Chăm Sóc Da
 ---

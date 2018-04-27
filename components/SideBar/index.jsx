@@ -14,7 +14,7 @@ class SideBar extends React.Component {
                 <div className='sidebar__title'>Important</div>
 		<div className='sidebar__link'>
 		<a href='/about'>Đoàn Bình & Mỹ Phẩm Asinice</a>
-		<a href='http://haboba.com'>Những địa điểm hẹn hò tại Phú Quốc</a>
+		<a href='http://myphamcacloai.net/releases/'>Những lợi ích từ mỹ phẩm thiên nhiên</a>
 		<a href='/payments'>How to pay? Thanh toán</a>
 		<a href='/help'>Hướng dẫn đặt mua Mỹ Phẩm Asinice</a>
 		</div>

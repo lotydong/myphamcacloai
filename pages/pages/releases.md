@@ -1,7 +1,7 @@
 ---
-title: 'Danh mục món ăn - Tới Trà Sữa Phú Quốc Quán bạn sẽ nhận được giá trị tương xứng'
+title: 'Dòng Trắng Da - Công nghệ Nano'
 layout: Releases
 path: '/releases/'
-meta: Danh mục món ăn Tới Trà Sữa Phú Quốc Quán bạn sẽ nhận được giá trị tương xứng
-keywords: Danh mục món ăn Tới Trà Sữa Phú Quốc Quán bạn sẽ nhận được giá trị tương xứng
+meta: Dòng Trắng Da - Công nghệ Nano
+keywords: Dòng Trắng Da - Công nghệ Nano
 ---
